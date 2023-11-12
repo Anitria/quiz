@@ -1,0 +1,35 @@
+body {
+  font-family: 'Arial', sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  text-align: center;
+  color: #007bff;
+}
+
+strong {
+  color: #343a40;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+#showButton {
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#results {
+  margin-top: 20px;
+  color: #6c757d;
+}
